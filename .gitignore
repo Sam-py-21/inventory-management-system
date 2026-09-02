@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 inventory.db
 inventory_data.xlsx
+.idea/
